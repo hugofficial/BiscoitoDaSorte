@@ -1,4 +1,4 @@
-## Biscoito Da Sorte - React Native
+## App Biscoito Da Sorte - React Native
 <br/>
 
 <div align="center">
